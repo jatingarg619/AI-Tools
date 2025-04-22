@@ -27,6 +27,7 @@ A curated list of artificial intelligence (AI) tools.
 - [10Web](https://10web.io/)
 - Akkio - akkio.com
 - [Cursor](https://www.cursor.com/) - The AI Code Editor
+- [GoCodeo](https://www.gocodeo.com/) - AI agent for building full-stack apps in minutes. 
 - [bolt.new](https://bolt.new/) - Prompt, run, edit & deploy web apps
 
 ## Research
